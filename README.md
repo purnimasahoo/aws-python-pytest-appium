@@ -1,2 +1,2 @@
-# Owner-avatar-python-pytest-appium
+#python-pytest-appium
 Pytest Appium Tests
