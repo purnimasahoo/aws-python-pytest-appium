@@ -37,3 +37,14 @@ A server to be run on the local host. Other servers include Saucelabs and Browse
 
 ### Launch terminal, run the following line of code, and keep it running.
 `appiumps -p 4723`
+
+# The Inspector
+-----
+The Appium desktop application, which we installed earlier, allows us to use the Inspector. Once running, this will give you a view of the devkit and the object tree, which you can run through. This allows you to find elements.
+
+## Set Desired Information
+When starting the session, we have to use the same desired information as we used earlier. In addition to this, we will need to set the port to use port 4723 or whatever we run the local Appium server on.
+
+Run the Appium and Appium Inspector to create the local session.
+
+
