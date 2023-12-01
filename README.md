@@ -2,13 +2,22 @@
 Pytest Appium Tests
 
 # Appium
-Appium is a framework that allows for both running tests that manipulate the unit and running tests that verify what users are seeing on the screen. This is done by setting up a server for the unit to communicate with, either through the command line or through a UI. This is how the majority of tests are run and verified on the unit.
+Appium is a framework that allows for both running tests that manipulate the unit and running tests that verify what users are seeing on the screen. This is done by setting up a server for the unit to communicate with, either through the command line or through a UI. It also supports automating smart TV and Windows/macOS-based desktop applications.
 
 
 # Tutorials
 
 ### Installation
 --------
+Requirements for the setup:
+
+Appium and Appium inspector
+Latest edition of Python and JAVA
+Android Studio
+Emulators
+Plugins installation
+IDE (VS Code or PyCharm)
+Sample test run
 
 Make sure to activate the virtual environment in the terminal.
 
