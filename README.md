@@ -31,10 +31,6 @@ To install the Appium server, run the following command on your terminal
 
 !pip3 install appium-python-server
 
-Install appium-ps
-
-!pip3 install appium-python-client-ps
-
 ## Starting the server
 -----
 A server to be run on the local host. Other servers include Saucelabs and Browserstack, but for our purposes, we will be running this server locally. This server needs to be up and running when either running appium specific driver code or using the inspector. Currently, this is only being supported on your local terminal.
