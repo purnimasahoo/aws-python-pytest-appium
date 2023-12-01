@@ -12,11 +12,17 @@ Appium is a framework that allows for both running tests that manipulate the uni
 Requirements for the setup:
 
 Appium and Appium inspector
+
 Latest edition of Python and JAVA
+
 Android Studio
+
 Emulators
+
 Plugins installation
+
 IDE (VS Code or PyCharm)
+
 Sample test run
 
 Make sure to activate the virtual environment in the terminal.
