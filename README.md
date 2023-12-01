@@ -23,3 +23,6 @@ Install appium-ps
 ## Starting the server
 -----
 A server to be run on the local host. Other servers include Saucelabs and Browserstack, but for our purposes, we will be running this server locally. This server needs to be up and running when either running appium specific driver code or using the inspector. Currently, this is only being supported on your local terminal.
+
+### Launch terminal, run the following line of code, and keep it running.
+`appiumps -p 4723`
